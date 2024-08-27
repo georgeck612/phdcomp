@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2024.8.21)  27 AUG 2024 03:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2024.8.21)  27 AUG 2024 03:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -949,27 +949,33 @@ Overfull \vbox (10.96039pt too high) detected at line 163
 [18
 
  <./ballmapperposter.png>]
+<graphhomo2.png, id=158, 3810.235pt x 1003.75pt>
+File: graphhomo2.png Graphic file (type png)
+<use graphhomo2.png>
+Package pdftex.def Info: graphhomo2.png  used on input line 179.
+(pdftex.def)             Requested size: 307.28987pt x 80.9449pt.
+
 
 [19
 
-]
-<prerefined.png, id=164, 1109.1036pt x 286.671pt>
+ <./graphhomo2.png>]
+<prerefined.png, id=166, 1109.1036pt x 286.671pt>
 File: prerefined.png Graphic file (type png)
 <use prerefined.png>
-Package pdftex.def Info: prerefined.png  used on input line 182.
+Package pdftex.def Info: prerefined.png  used on input line 187.
 (pdftex.def)             Requested size: 307.28987pt x 79.4231pt.
 
 
 [20
 
  <./prerefined.png>]
-<ballclustering.png, id=171, 1120.6668pt x 611.4042pt>
+<ballclustering.png, id=173, 1120.6668pt x 611.4042pt>
 File: ballclustering.png Graphic file (type png)
 <use ballclustering.png>
-Package pdftex.def Info: ballclustering.png  used on input line 190.
+Package pdftex.def Info: ballclustering.png  used on input line 195.
 (pdftex.def)             Requested size: 338.02072pt x 184.41158pt.
 
-Overfull \hbox (16.50449pt too wide) in paragraph at lines 190--190
+Overfull \hbox (16.50449pt too wide) in paragraph at lines 195--195
  | [] 
  []
 
@@ -978,13 +984,13 @@ Overfull \hbox (16.50449pt too wide) in paragraph at lines 190--190
 [21
 
  <./ballclustering.png>]
-<refinedballmapper.png, id=179, 552.6246pt x 532.8708pt>
+<refinedballmapper.png, id=181, 552.6246pt x 532.8708pt>
 File: refinedballmapper.png Graphic file (type png)
 <use refinedballmapper.png>
-Package pdftex.def Info: refinedballmapper.png  used on input line 198.
+Package pdftex.def Info: refinedballmapper.png  used on input line 203.
 (pdftex.def)             Requested size: 230.46739pt x 222.2268pt.
 
-Overfull \vbox (18.4809pt too high) detected at line 198
+Overfull \vbox (18.4809pt too high) detected at line 203
  []
 
 
@@ -992,10 +998,10 @@ Overfull \vbox (18.4809pt too high) detected at line 198
 [22
 
  <./refinedballmapper.png>]
-<graphhomo.png, id=186, 3890.535pt x 1003.75pt>
+<graphhomo.png, id=188, 3890.535pt x 1003.75pt>
 File: graphhomo.png Graphic file (type png)
 <use graphhomo.png>
-Package pdftex.def Info: graphhomo.png  used on input line 210.
+Package pdftex.def Info: graphhomo.png  used on input line 215.
 (pdftex.def)             Requested size: 307.28987pt x 79.27547pt.
 
 
@@ -1006,18 +1012,18 @@ Package pdftex.def Info: graphhomo.png  used on input line 210.
 [24
 
 ]
-<graphcore.png, id=198, 1565.85pt x 1003.75pt>
+<graphcore.png, id=200, 1565.85pt x 1003.75pt>
 File: graphcore.png Graphic file (type png)
 <use graphcore.png>
-Package pdftex.def Info: graphcore.png  used on input line 237.
+Package pdftex.def Info: graphcore.png  used on input line 242.
 (pdftex.def)             Requested size: 322.65529pt x 206.82689pt.
 
-Overfull \hbox (9.26285pt too wide) in paragraph at lines 237--237
+Overfull \hbox (9.26285pt too wide) in paragraph at lines 242--242
  |  [] 
  []
 
 
-Overfull \vbox (0.88896pt too high) detected at line 237
+Overfull \vbox (0.88896pt too high) detected at line 242
  []
 
 
@@ -1025,18 +1031,18 @@ Overfull \vbox (0.88896pt too high) detected at line 237
 [25
 
  <./graphcore.png>]
-<graphcoreinclusion.png, id=206, 1551.7975pt x 1003.75pt>
+<graphcoreinclusion.png, id=208, 1551.7975pt x 1003.75pt>
 File: graphcoreinclusion.png Graphic file (type png)
 <use graphcoreinclusion.png>
-Package pdftex.def Info: graphcoreinclusion.png  used on input line 237.
+Package pdftex.def Info: graphcoreinclusion.png  used on input line 242.
 (pdftex.def)             Requested size: 322.65529pt x 208.69543pt.
 
-Overfull \hbox (11.69618pt too wide) in paragraph at lines 237--237
+Overfull \hbox (11.69618pt too wide) in paragraph at lines 242--242
  |   [] 
  []
 
 
-Overfull \vbox (2.7575pt too high) detected at line 237
+Overfull \vbox (2.7575pt too high) detected at line 242
  []
 
 
@@ -1044,18 +1050,18 @@ Overfull \vbox (2.7575pt too high) detected at line 237
 [26
 
  <./graphcoreinclusion.png>]
-<graphcorefull.png, id=213, 1437.37pt x 1003.75pt>
+<graphcorefull.png, id=215, 1437.37pt x 1003.75pt>
 File: graphcorefull.png Graphic file (type png)
 <use graphcorefull.png>
-Package pdftex.def Info: graphcorefull.png  used on input line 237.
+Package pdftex.def Info: graphcorefull.png  used on input line 242.
 (pdftex.def)             Requested size: 322.65529pt x 225.31326pt.
 
-Overfull \hbox (9.26285pt too wide) in paragraph at lines 237--237
+Overfull \hbox (9.26285pt too wide) in paragraph at lines 242--242
  |  [] 
  []
 
 
-Overfull \vbox (19.37534pt too high) detected at line 237
+Overfull \vbox (19.37534pt too high) detected at line 242
  []
 
 
@@ -1071,13 +1077,13 @@ Overfull \vbox (19.37534pt too high) detected at line 237
 [29
 
 ]
-<cytoyeast.png, id=235, 1927.2pt x 1053.9375pt>
+<cytoyeast.png, id=237, 1927.2pt x 1053.9375pt>
 File: cytoyeast.png Graphic file (type png)
 <use cytoyeast.png>
-Package pdftex.def Info: cytoyeast.png  used on input line 259.
+Package pdftex.def Info: cytoyeast.png  used on input line 264.
 (pdftex.def)             Requested size: 307.28987pt x 168.03842pt.
 
-Overfull \vbox (19.81645pt too high) detected at line 259
+Overfull \vbox (19.81645pt too high) detected at line 264
  []
 
 
@@ -1085,33 +1091,33 @@ Overfull \vbox (19.81645pt too high) detected at line 259
 [30
 
  <./cytoyeast.png>]
-<nodetable.png, id=242, 707.64375pt x 192.72pt>
+<nodetable.png, id=244, 707.64375pt x 192.72pt>
 File: nodetable.png Graphic file (type png)
 <use nodetable.png>
-Package pdftex.def Info: nodetable.png  used on input line 272.
+Package pdftex.def Info: nodetable.png  used on input line 277.
 (pdftex.def)             Requested size: 307.28987pt x 83.68842pt.
 
 
 [31
 
  <./nodetable.png>]
-<nodestyling.png, id=250, 610.9224pt x 262.0992pt>
+<nodestyling.png, id=252, 610.9224pt x 262.0992pt>
 File: nodestyling.png Graphic file (type png)
 <use nodestyling.png>
-Package pdftex.def Info: nodestyling.png  used on input line 285.
+Package pdftex.def Info: nodestyling.png  used on input line 290.
 (pdftex.def)             Requested size: 307.28987pt x 131.83713pt.
 
 
 [32
 
  <./nodestyling.png>]
-<edgestyling.png, id=257, 1144.275pt x 258.2448pt>
+<edgestyling.png, id=259, 1144.275pt x 258.2448pt>
 File: edgestyling.png Graphic file (type png)
 <use edgestyling.png>
-Package pdftex.def Info: edgestyling.png  used on input line 297.
+Package pdftex.def Info: edgestyling.png  used on input line 302.
 (pdftex.def)             Requested size: 322.65529pt x 72.81636pt.
 
-Overfull \hbox (15.36542pt too wide) in paragraph at lines 297--297
+Overfull \hbox (15.36542pt too wide) in paragraph at lines 302--302
  [] 
  []
 
@@ -1120,13 +1126,13 @@ Overfull \hbox (15.36542pt too wide) in paragraph at lines 297--297
 [33
 
  <./edgestyling.png>]
-<cytofilter.png, id=264, 339.51843pt x 246.9225pt>
+<cytofilter.png, id=266, 339.51843pt x 246.9225pt>
 File: cytofilter.png Graphic file (type png)
 <use cytofilter.png>
-Package pdftex.def Info: cytofilter.png  used on input line 314.
+Package pdftex.def Info: cytofilter.png  used on input line 319.
 (pdftex.def)             Requested size: 199.73653pt x 145.261pt.
 
-Overfull \vbox (21.56721pt too high) detected at line 314
+Overfull \vbox (21.56721pt too high) detected at line 319
  []
 
 
@@ -1142,13 +1148,13 @@ Overfull \vbox (21.56721pt too high) detected at line 314
 [36
 
 ]
-<rna.png, id=286, 220.825pt x 407.5225pt>
+<rna.png, id=288, 220.825pt x 407.5225pt>
 File: rna.png Graphic file (type png)
 <use rna.png>
-Package pdftex.def Info: rna.png  used on input line 338.
+Package pdftex.def Info: rna.png  used on input line 343.
 (pdftex.def)             Requested size: 92.1879pt x 170.12604pt.
 
-Overfull \vbox (19.7749pt too high) detected at line 338
+Overfull \vbox (19.7749pt too high) detected at line 343
  []
 
 
@@ -1156,13 +1162,13 @@ Overfull \vbox (19.7749pt too high) detected at line 338
 [37
 
  <./rna.png (PNG copy)>]
-<rnadna.png, id=293, 1376.14125pt x 1101.11375pt>
+<rnadna.png, id=295, 1376.14125pt x 1101.11375pt>
 File: rnadna.png Graphic file (type png)
 <use rnadna.png>
-Package pdftex.def Info: rnadna.png  used on input line 346.
+Package pdftex.def Info: rnadna.png  used on input line 351.
 (pdftex.def)             Requested size: 307.28987pt x 245.87492pt.
 
-Overfull \vbox (42.12901pt too high) detected at line 346
+Overfull \vbox (42.12901pt too high) detected at line 351
  []
 
 
@@ -1170,13 +1176,13 @@ Overfull \vbox (42.12901pt too high) detected at line 346
 [38
 
  <./rnadna.png>]
-<aptamer.png, id=300, 426.59375pt x 170.6375pt>
+<aptamer.png, id=302, 426.59375pt x 170.6375pt>
 File: aptamer.png Graphic file (type png)
 <use aptamer.png>
-Package pdftex.def Info: aptamer.png  used on input line 360.
+Package pdftex.def Info: aptamer.png  used on input line 365.
 (pdftex.def)             Requested size: 307.28987pt x 122.92398pt.
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 360--360
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 365--365
  [] 
  []
 
@@ -1189,13 +1195,13 @@ Overfull \hbox (21.90005pt too wide) in paragraph at lines 360--360
 [40
 
 ]
-<aptamers.png, id=311, 1196.3094pt x 544.9158pt>
+<aptamers.png, id=313, 1196.3094pt x 544.9158pt>
 File: aptamers.png Graphic file (type png)
 <use aptamers.png>
-Package pdftex.def Info: aptamers.png  used on input line 377.
+Package pdftex.def Info: aptamers.png  used on input line 382.
 (pdftex.def)             Requested size: 353.38147pt x 160.96495pt.
 
-Overfull \hbox (24.75204pt too wide) in paragraph at lines 377--377
+Overfull \hbox (24.75204pt too wide) in paragraph at lines 382--382
  | [] 
  []
 
@@ -1208,23 +1214,23 @@ Overfull \hbox (24.75204pt too wide) in paragraph at lines 377--377
 [42
 
 ]
-<bigmapptamer.png, id=323, 1037.37563pt x 648.92438pt>
+<bigmapptamer.png, id=325, 1037.37563pt x 648.92438pt>
 File: bigmapptamer.png Graphic file (type png)
 <use bigmapptamer.png>
-Package pdftex.def Info: bigmapptamer.png  used on input line 395.
+Package pdftex.def Info: bigmapptamer.png  used on input line 400.
 (pdftex.def)             Requested size: 307.28987pt x 192.22318pt.
 
 
 [43
 
  <./bigmapptamer.png>]
-<prunedmapptamer.png, id=332, 922.19531pt x 662.475pt>
+<prunedmapptamer.png, id=334, 922.19531pt x 662.475pt>
 File: prunedmapptamer.png Graphic file (type png)
 <use prunedmapptamer.png>
-Package pdftex.def Info: prunedmapptamer.png  used on input line 403.
+Package pdftex.def Info: prunedmapptamer.png  used on input line 408.
 (pdftex.def)             Requested size: 307.28987pt x 220.74022pt.
 
-Overfull \vbox (16.99431pt too high) detected at line 403
+Overfull \vbox (16.99431pt too high) detected at line 408
  []
 
 
@@ -1276,18 +1282,18 @@ L3 programming layer <2024-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 25807 strings out of 475831
- 520236 string characters out of 5777600
+ 25814 strings out of 475831
+ 520382 string characters out of 5777600
  1933960 words of memory out of 5000000
- 47797 multiletter control sequences out of 15000+600000
+ 47804 multiletter control sequences out of 15000+600000
  572441 words of font info for 87 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  128i,13n,123p,1952b,582s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\georg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\georg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on comp.pdf (51 pages, 14758636 bytes).
+Output written on comp.pdf (51 pages, 14896809 bytes).
 PDF statistics:
- 487 PDF objects out of 1000 (max. 8388607)
+ 489 PDF objects out of 1000 (max. 8388607)
  348 compressed objects within 4 object streams
  110 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 244 words of extra memory for PDF output out of 10000 (max. 10000000)
 
