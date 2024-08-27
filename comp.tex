@@ -56,9 +56,9 @@
 
 \begin{frame}{Toning It Down}
   \begin{itemize}
-    \item Broad idea: high dimensions $\to$ low dimensions
+    \item Broad idea: high dimensions $\implies$ low dimensions
     \item More specific idea: build a simplicial complex
-    \item Even better idea: build a 1-dimensional simplicial complex (that is, a graph)
+    \item Simpler idea: build a 1-dimensional simplicial complex (that is, a graph)
     \item Enter: the Mapper algorithm (Singh et al, 2007)
     \vspace*{.5cm}
   \begin{figure}
@@ -74,31 +74,27 @@
   \begin{itemize}
     \item Idea: construct graph reflecting level sets of a ``filter'' function
     \item Formally, given a topological space $X$ and a continuous function 
-    $f: X\to\mathbb{R}$, define an equivalence relation $\sim$ on $X$ where $x\sim$ if $x$ and $y$ live in the same connected component of a level set $f^{-1}(c)$ for some $c\in\mathbb{R}$.
-    \item The \textbf{Reeb graph} is $X/\sim$, taken with the quotient topology.
-    \begin{itemize}
-      \item (This might not be a graph if $X$ or $f$ is weird)
-      \item (Don't worry about it)
-    \end{itemize}
+    $f: X\to\mathbb{R}$, define an equivalence relation $\sim$ on $X$ where $x\sim y$ if $x$ and $y$ live in the same connected component of a level set $f^{-1}(c)$ for some $c\in\mathbb{R}$.
+    \item The \textbf{Reeb graph}\footnote{Despite names this is not always a graph} is $X/\sim$, taken with the quotient topology.
   \end{itemize}
 \end{frame}
 
 \begin{frame}{Motivation: Reeb Graph}
   \begin{figure}
     \begin{center}
-      \hspace*{-1cm}\includegraphics[width=.62\textwidth]{reeb.png}
+      \hspace*{-.6cm}\includegraphics[width=1.1\textwidth]{reeb.png}
     \end{center}
   \end{figure}
 \end{frame}
 
-\begin{frame}{Original Flavor}
+\begin{frame}{Mapper: Original Flavor}
 \begin{itemize}
   \item How can we apply this to the discrete setting?
-  \item Topological space $X \to$ point cloud $P \subseteq\mathbb{R}^n$
-  \item Filter function: $f: \mathbb{R}^n\to\mathbb{R}$
-  \item Level sets of points $\to$ level sets of overlapping intervals
-  \item Equivalence classes via connected components $\to$ equivalence classes via clusters
-  \item Quotient space $\to$ nerve complex
+  \item Topological space $X \implies$ point cloud $P$ (a discrete set of points in a space)
+  \item Filter function: $f: P\implies\mathbb{R}$
+  \item Level sets of points $\implies$ level sets of overlapping intervals
+  \item Connected components $\implies$ clusters
+  \item Quotient space $\implies$ nerve complex
 \end{itemize}
 \end{frame}
 
@@ -175,6 +171,69 @@
     \item Allows for comparison of two different metrics at the same time
   \end{itemize}
   
+\end{frame}
+
+\begin{frame}{Standard Ballmapper}
+  \begin{figure}
+    \begin{center}
+      \includegraphics[width=1\textwidth]{prerefined.png}
+    \end{center}
+  \end{figure}
+\end{frame}
+
+\begin{frame}{Balls as Bins}
+  \begin{figure}
+    \begin{center}
+      \hspace*{-.5cm}\includegraphics[width=1.1\textwidth]{ballclustering.png}
+    \end{center}
+  \end{figure}
+\end{frame}
+
+\begin{frame}{Refined Ballmapper Graph}
+  \begin{figure}
+    \begin{center}
+      \includegraphics[width=.75\textwidth]{refinedballmapper.png}
+    \end{center}
+  \end{figure}
+\end{frame}
+
+\begin{frame}{Graph Theoretic Relation}
+  \begin{itemize}
+    \item A function $\phi$ between the vertices of two graphs $G$ and $H$ is called a \textbf{graph homomorphism} if $uv\in E(G)$ implies $\phi(uv)\in E(H)$.
+    \item $G$ and $H$ are called \textbf{homomorphically equivalent} (hom-equivalent) if there exist graph homomorphisms $f: G\to H$ and $g: H\to G$.
+  \end{itemize}
+  \begin{figure}
+    \begin{center}
+      \includegraphics[width=1\textwidth]{graphhomo.png}
+    \end{center}
+  \end{figure}
+\end{frame}
+
+\begin{frame}{Why Might We Care? Possibility: Cores}
+  \begin{itemize}
+    \item A \textbf{core} $C$ of a graph $G$ is a graph such that $G$ and $C$ are hom-equivalent, and $C$ is the smallest such graph.
+    \begin{itemize}
+      \item Complete graphs, odd cycles, etc
+    \end{itemize}
+    \item Every finite graph has a core, and it is unique (up to isomorphism).
+    \item Graphs with the same cores are necessarily hom-equivalent, and vice versa.
+    \item Core-finding complexity: NP-complete :(
+    \item Applications to relational algebra
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Example Equivalence via Core}
+  \begin{figure}
+    \begin{center}\hspace*{-.3cm}
+      \only<1>{\includegraphics[width=1.05\textwidth]{graphcore.png}}
+      \only<2>{\includegraphics[width=1.05\textwidth]{graphcoreinclusion.png}}
+    \end{center}
+  \end{figure}
+  \begin{figure}
+    \begin{center}\vspace*{-1.65cm}\hspace*{-.3cm}
+      \only<3>{\includegraphics[width=1.05\textwidth]{graphcorefull.png}}
+    \end{center}
+  \end{figure}
 \end{frame}
 
 \begin{frame}{Problems}
@@ -302,7 +361,7 @@
 
 \begin{frame}{Comparing Aptamers}
   \begin{itemize}
-    \item For TDA to work we need a metric\footnote<1>{ehhhh...} by which to compare aptamers
+    \item For TDA to work we need a metric\footnote{ehhhh...} by which to compare aptamers
     \item Aptamers have two characteristics: their genetic code and their structure
     \item Distance between sequences: Levenshtein distance
     \item Distance between structures: tree distance
