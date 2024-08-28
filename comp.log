@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2024.8.21)  27 AUG 2024 03:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2024.8.21)  27 AUG 2024 23:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -539,7 +539,10 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (C:\Users\georg\AppData\Roaming\MiKTeX\2.9\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count343
-)) (beamerthememetropolis.sty
+)) (C:\Users\georg\AppData\Roaming\MiKTeX\2.9\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+) (beamerthememetropolis.sty
 Package: beamerthememetropolis 2016/03/14 v1.1 Metropolis Beamer theme
  (C:\Users\georg\AppData\Roaming\MiKTeX\2.9\tex/latex/pgfopts\pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
@@ -641,24 +644,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (comp.aux)
 \openout1 = `comp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -713,56 +716,56 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\georg\AppData\Roaming\MiKTeX\2.9\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 17.
+Package hyperref Info: Link coloring OFF on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 17.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 17.
-\symnumbers=\mathgroup6
-\sympureletters=\mathgroup7
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 21.
+\symnumbers=\mathgroup7
+\sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 17.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 21.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 17.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 21.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 17.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 17.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 17.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 21.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 17.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 21.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 21.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 17.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 17.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 17.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 17.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 17.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 17.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 21.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 17.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 21.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 17.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 21.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 17.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 21.
  (C:\Users\georg\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (C:\Users\georg\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translator-bibliography-dictionary-English.dict
@@ -776,7 +779,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 ) (C:\Users\georg\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (comp.nav)
-Overfull \vbox (44.55656pt too high) detected at line 20
+Overfull \vbox (44.55656pt too high) detected at line 24
  []
 
 
@@ -792,17 +795,17 @@ Overfull \vbox (44.55656pt too high) detected at line 20
 [3
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 46.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 50.
  (C:\Users\georg\AppData\Roaming\MiKTeX\2.9\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 <brains.png, id=47, 853.1875pt x 631.35875pt>
 File: brains.png Graphic file (type png)
 <use brains.png>
-Package pdftex.def Info: brains.png  used on input line 46.
+Package pdftex.def Info: brains.png  used on input line 50.
 (pdftex.def)             Requested size: 245.83282pt x 181.91403pt.
 
-Overfull \vbox (34.30038pt too high) detected at line 46
+Overfull \vbox (34.30038pt too high) detected at line 50
  []
 
 
@@ -813,10 +816,10 @@ Overfull \vbox (34.30038pt too high) detected at line 46
 <weatherstation.png, id=54, 2766.335pt x 1836.8625pt>
 File: weatherstation.png Graphic file (type png)
 <use weatherstation.png>
-Package pdftex.def Info: weatherstation.png  used on input line 46.
+Package pdftex.def Info: weatherstation.png  used on input line 50.
 (pdftex.def)             Requested size: 245.83282pt x 163.20837pt.
 
-Overfull \vbox (15.59473pt too high) detected at line 46
+Overfull \vbox (15.59473pt too high) detected at line 50
  []
 
 
@@ -824,15 +827,19 @@ Overfull \vbox (15.59473pt too high) detected at line 46
 [5
 
  <./weatherstation.png (PNG copy)>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 59.
  (C:\Users\georg\AppData\Roaming\MiKTeX\2.9\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 59.
  (C:\Users\georg\AppData\Roaming\MiKTeX\2.9\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 55.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 59.
+ (C:\Users\georg\AppData\Roaming\MiKTeX\2.9\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 59.
  (C:\Users\georg\AppData\Roaming\MiKTeX\2.9\tex/latex/sansmathaccent\ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
@@ -843,7 +850,7 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 <datatograph.png, id=70, 1089.8316pt x 242.3454pt>
 File: datatograph.png Graphic file (type png)
 <use datatograph.png>
-Package pdftex.def Info: datatograph.png  used on input line 70.
+Package pdftex.def Info: datatograph.png  used on input line 74.
 (pdftex.def)             Requested size: 307.28987pt x 68.32957pt.
 
 
@@ -861,15 +868,15 @@ Package pdftex.def Info: datatograph.png  used on input line 70.
 <reeb.png, id=95, 1644.1425pt x 1002.74625pt>
 File: reeb.png Graphic file (type png)
 <use reeb.png>
-Package pdftex.def Info: reeb.png  used on input line 88.
+Package pdftex.def Info: reeb.png  used on input line 92.
 (pdftex.def)             Requested size: 338.02072pt x 206.14574pt.
 
-Overfull \hbox (13.65903pt too wide) in paragraph at lines 88--88
+Overfull \hbox (13.65903pt too wide) in paragraph at lines 92--92
  | [] 
  []
 
 
-Overfull \vbox (18.03975pt too high) detected at line 88
+Overfull \vbox (18.03975pt too high) detected at line 92
  []
 
 
@@ -881,371 +888,377 @@ Overfull \vbox (18.03975pt too high) detected at line 88
 [11
 
 ]
-<filteredposterdata.png, id=108, 473.1276pt x 366.168pt>
-File: filteredposterdata.png Graphic file (type png)
-<use filteredposterdata.png>
-Package pdftex.def Info: filteredposterdata.png  used on input line 107.
-(pdftex.def)             Requested size: 245.83282pt x 190.2576pt.
-
 
 [12
 
- <./filteredposterdata.png>]
-<posterdataclusters.png, id=115, 672.5928pt x 237.5274pt>
-File: posterdataclusters.png Graphic file (type png)
-<use posterdataclusters.png>
-Package pdftex.def Info: posterdataclusters.png  used on input line 115.
-(pdftex.def)             Requested size: 307.28987pt x 108.52455pt.
+]
+<cluster0.png, id=115, 115.1502pt x 104.0688pt>
+File: cluster0.png Graphic file (type png)
+<use cluster0.png>
+Package pdftex.def Info: cluster0.png  used on input line 134.
+(pdftex.def)             Requested size: 122.91406pt x 111.08572pt.
 
 
 [13
 
- <./posterdataclusters.png>]
-<intersectposterdata.png, id=123, 463.9734pt x 257.763pt>
-File: intersectposterdata.png Graphic file (type png)
-<use intersectposterdata.png>
-Package pdftex.def Info: intersectposterdata.png  used on input line 123.
-(pdftex.def)             Requested size: 245.83282pt x 136.5744pt.
+ <./cluster0.png>]
+<filteredposterdata.png, id=124, 473.1276pt x 366.168pt>
+File: filteredposterdata.png Graphic file (type png)
+<use filteredposterdata.png>
+Package pdftex.def Info: filteredposterdata.png  used on input line 142.
+(pdftex.def)             Requested size: 245.83282pt x 190.2576pt.
 
 
 [14
 
- <./intersectposterdata.png>]
-<postermapper.png, id=130, 366.168pt x 238.9728pt>
-File: postermapper.png Graphic file (type png)
-<use postermapper.png>
-Package pdftex.def Info: postermapper.png  used on input line 131.
-(pdftex.def)             Requested size: 245.83282pt x 160.44275pt.
+ <./filteredposterdata.png>]
+<posterdataclusters.png, id=131, 672.5928pt x 237.5274pt>
+File: posterdataclusters.png Graphic file (type png)
+<use posterdataclusters.png>
+Package pdftex.def Info: posterdataclusters.png  used on input line 150.
+(pdftex.def)             Requested size: 307.28987pt x 108.52455pt.
 
 
 [15
 
- <./postermapper.png>]
+ <./posterdataclusters.png>]
+<intersectposterdata.png, id=138, 463.9734pt x 257.763pt>
+File: intersectposterdata.png Graphic file (type png)
+<use intersectposterdata.png>
+Package pdftex.def Info: intersectposterdata.png  used on input line 158.
+(pdftex.def)             Requested size: 245.83282pt x 136.5744pt.
+
 
 [16
 
-]
-<ballcover.png, id=144, 461.0826pt x 262.0992pt>
-File: ballcover.png Graphic file (type png)
-<use ballcover.png>
-Package pdftex.def Info: ballcover.png  used on input line 155.
-(pdftex.def)             Requested size: 307.28987pt x 174.6817pt.
+ <./intersectposterdata.png>]
+<postermapper.png, id=145, 366.168pt x 238.9728pt>
+File: postermapper.png Graphic file (type png)
+<use postermapper.png>
+Package pdftex.def Info: postermapper.png  used on input line 166.
+(pdftex.def)             Requested size: 245.83282pt x 160.44275pt.
 
 
 [17
 
- <./ballcover.png>]
-<ballmapperposter.png, id=151, 441.3288pt x 308.352pt>
-File: ballmapperposter.png Graphic file (type png)
-<use ballmapperposter.png>
-Package pdftex.def Info: ballmapperposter.png  used on input line 163.
-(pdftex.def)             Requested size: 307.28987pt x 214.7063pt.
-
-Overfull \vbox (10.96039pt too high) detected at line 163
- []
-
-
+ <./postermapper.png>]
 
 [18
 
- <./ballmapperposter.png>]
-<graphhomo2.png, id=158, 3810.235pt x 1003.75pt>
-File: graphhomo2.png Graphic file (type png)
-<use graphhomo2.png>
-Package pdftex.def Info: graphhomo2.png  used on input line 179.
-(pdftex.def)             Requested size: 307.28987pt x 80.9449pt.
+]
+<ballcover.png, id=158, 461.0826pt x 262.0992pt>
+File: ballcover.png Graphic file (type png)
+<use ballcover.png>
+Package pdftex.def Info: ballcover.png  used on input line 190.
+(pdftex.def)             Requested size: 307.28987pt x 174.6817pt.
 
 
 [19
 
- <./graphhomo2.png>]
-<prerefined.png, id=166, 1109.1036pt x 286.671pt>
-File: prerefined.png Graphic file (type png)
-<use prerefined.png>
-Package pdftex.def Info: prerefined.png  used on input line 187.
-(pdftex.def)             Requested size: 307.28987pt x 79.4231pt.
+ <./ballcover.png>]
+<ballmapperposter.png, id=166, 441.3288pt x 308.352pt>
+File: ballmapperposter.png Graphic file (type png)
+<use ballmapperposter.png>
+Package pdftex.def Info: ballmapperposter.png  used on input line 198.
+(pdftex.def)             Requested size: 307.28987pt x 214.7063pt.
+
+Overfull \vbox (10.96039pt too high) detected at line 198
+ []
+
 
 
 [20
 
+ <./ballmapperposter.png>]
+<graphhomo2.png, id=173, 3810.235pt x 1003.75pt>
+File: graphhomo2.png Graphic file (type png)
+<use graphhomo2.png>
+Package pdftex.def Info: graphhomo2.png  used on input line 212.
+(pdftex.def)             Requested size: 307.28987pt x 80.9449pt.
+
+
+[21
+
+ <./graphhomo2.png>]
+<prerefined.png, id=181, 1109.1036pt x 286.671pt>
+File: prerefined.png Graphic file (type png)
+<use prerefined.png>
+Package pdftex.def Info: prerefined.png  used on input line 220.
+(pdftex.def)             Requested size: 307.28987pt x 79.4231pt.
+
+
+[22
+
  <./prerefined.png>]
-<ballclustering.png, id=173, 1120.6668pt x 611.4042pt>
+<ballclustering.png, id=188, 1120.6668pt x 611.4042pt>
 File: ballclustering.png Graphic file (type png)
 <use ballclustering.png>
-Package pdftex.def Info: ballclustering.png  used on input line 195.
+Package pdftex.def Info: ballclustering.png  used on input line 228.
 (pdftex.def)             Requested size: 338.02072pt x 184.41158pt.
 
-Overfull \hbox (16.50449pt too wide) in paragraph at lines 195--195
+Overfull \hbox (16.50449pt too wide) in paragraph at lines 228--228
  | [] 
  []
 
 
 
-[21
+[23
 
  <./ballclustering.png>]
-<refinedballmapper.png, id=181, 552.6246pt x 532.8708pt>
+<refinedballmapper.png, id=195, 552.6246pt x 532.8708pt>
 File: refinedballmapper.png Graphic file (type png)
 <use refinedballmapper.png>
-Package pdftex.def Info: refinedballmapper.png  used on input line 203.
+Package pdftex.def Info: refinedballmapper.png  used on input line 236.
 (pdftex.def)             Requested size: 230.46739pt x 222.2268pt.
 
-Overfull \vbox (18.4809pt too high) detected at line 203
+Overfull \vbox (18.4809pt too high) detected at line 236
  []
 
 
-
-[22
-
- <./refinedballmapper.png>]
-<graphhomo.png, id=188, 3890.535pt x 1003.75pt>
-File: graphhomo.png Graphic file (type png)
-<use graphhomo.png>
-Package pdftex.def Info: graphhomo.png  used on input line 215.
-(pdftex.def)             Requested size: 307.28987pt x 79.27547pt.
-
-
-[23
-
- <./graphhomo.png>]
 
 [24
 
-]
-<graphcore.png, id=200, 1565.85pt x 1003.75pt>
-File: graphcore.png Graphic file (type png)
-<use graphcore.png>
-Package pdftex.def Info: graphcore.png  used on input line 242.
-(pdftex.def)             Requested size: 322.65529pt x 206.82689pt.
-
-Overfull \hbox (9.26285pt too wide) in paragraph at lines 242--242
- |  [] 
- []
-
-
-Overfull \vbox (0.88896pt too high) detected at line 242
- []
-
+ <./refinedballmapper.png>]
+<graphhomo.png, id=202, 3890.535pt x 1003.75pt>
+File: graphhomo.png Graphic file (type png)
+<use graphhomo.png>
+Package pdftex.def Info: graphhomo.png  used on input line 248.
+(pdftex.def)             Requested size: 307.28987pt x 79.27547pt.
 
 
 [25
 
- <./graphcore.png>]
-<graphcoreinclusion.png, id=208, 1551.7975pt x 1003.75pt>
-File: graphcoreinclusion.png Graphic file (type png)
-<use graphcoreinclusion.png>
-Package pdftex.def Info: graphcoreinclusion.png  used on input line 242.
-(pdftex.def)             Requested size: 322.65529pt x 208.69543pt.
-
-Overfull \hbox (11.69618pt too wide) in paragraph at lines 242--242
- |   [] 
- []
-
-
-Overfull \vbox (2.7575pt too high) detected at line 242
- []
-
-
+ <./graphhomo.png>]
 
 [26
 
- <./graphcoreinclusion.png>]
-<graphcorefull.png, id=215, 1437.37pt x 1003.75pt>
-File: graphcorefull.png Graphic file (type png)
-<use graphcorefull.png>
-Package pdftex.def Info: graphcorefull.png  used on input line 242.
-(pdftex.def)             Requested size: 322.65529pt x 225.31326pt.
+]
+<graphcore.png, id=215, 1565.85pt x 1003.75pt>
+File: graphcore.png Graphic file (type png)
+<use graphcore.png>
+Package pdftex.def Info: graphcore.png  used on input line 275.
+(pdftex.def)             Requested size: 322.65529pt x 206.82689pt.
 
-Overfull \hbox (9.26285pt too wide) in paragraph at lines 242--242
+Overfull \hbox (9.26285pt too wide) in paragraph at lines 275--275
  |  [] 
  []
 
 
-Overfull \vbox (19.37534pt too high) detected at line 242
+Overfull \vbox (0.88896pt too high) detected at line 275
  []
 
 
 
 [27
 
- <./graphcorefull.png>]
+ <./graphcore.png>]
+<graphcoreinclusion.png, id=222, 1551.7975pt x 1003.75pt>
+File: graphcoreinclusion.png Graphic file (type png)
+<use graphcoreinclusion.png>
+Package pdftex.def Info: graphcoreinclusion.png  used on input line 275.
+(pdftex.def)             Requested size: 322.65529pt x 208.69543pt.
 
-[28
+Overfull \hbox (11.69618pt too wide) in paragraph at lines 275--275
+ |   [] 
+ []
 
-] (comp.toc)
 
-[29
-
-]
-<cytoyeast.png, id=237, 1927.2pt x 1053.9375pt>
-File: cytoyeast.png Graphic file (type png)
-<use cytoyeast.png>
-Package pdftex.def Info: cytoyeast.png  used on input line 264.
-(pdftex.def)             Requested size: 307.28987pt x 168.03842pt.
-
-Overfull \vbox (19.81645pt too high) detected at line 264
+Overfull \vbox (2.7575pt too high) detected at line 275
  []
 
 
 
+[28
+
+ <./graphcoreinclusion.png>]
+<graphcorefull.png, id=229, 1437.37pt x 1003.75pt>
+File: graphcorefull.png Graphic file (type png)
+<use graphcorefull.png>
+Package pdftex.def Info: graphcorefull.png  used on input line 275.
+(pdftex.def)             Requested size: 322.65529pt x 225.31326pt.
+
+Overfull \hbox (9.26285pt too wide) in paragraph at lines 275--275
+ |  [] 
+ []
+
+
+Overfull \vbox (19.37534pt too high) detected at line 275
+ []
+
+
+
+[29
+
+ <./graphcorefull.png>]
+
 [30
 
- <./cytoyeast.png>]
-<nodetable.png, id=244, 707.64375pt x 192.72pt>
-File: nodetable.png Graphic file (type png)
-<use nodetable.png>
-Package pdftex.def Info: nodetable.png  used on input line 277.
-(pdftex.def)             Requested size: 307.28987pt x 83.68842pt.
-
+] (comp.toc)
 
 [31
 
- <./nodetable.png>]
-<nodestyling.png, id=252, 610.9224pt x 262.0992pt>
-File: nodestyling.png Graphic file (type png)
-<use nodestyling.png>
-Package pdftex.def Info: nodestyling.png  used on input line 290.
-(pdftex.def)             Requested size: 307.28987pt x 131.83713pt.
+]
+<cytoyeast.png, id=252, 1927.2pt x 1053.9375pt>
+File: cytoyeast.png Graphic file (type png)
+<use cytoyeast.png>
+Package pdftex.def Info: cytoyeast.png  used on input line 297.
+(pdftex.def)             Requested size: 307.28987pt x 168.03842pt.
+
+Overfull \vbox (19.81645pt too high) detected at line 297
+ []
+
 
 
 [32
 
- <./nodestyling.png>]
-<edgestyling.png, id=259, 1144.275pt x 258.2448pt>
-File: edgestyling.png Graphic file (type png)
-<use edgestyling.png>
-Package pdftex.def Info: edgestyling.png  used on input line 302.
-(pdftex.def)             Requested size: 322.65529pt x 72.81636pt.
-
-Overfull \hbox (15.36542pt too wide) in paragraph at lines 302--302
- [] 
- []
-
+ <./cytoyeast.png>]
+<nodetable.png, id=259, 707.64375pt x 192.72pt>
+File: nodetable.png Graphic file (type png)
+<use nodetable.png>
+Package pdftex.def Info: nodetable.png  used on input line 310.
+(pdftex.def)             Requested size: 307.28987pt x 83.68842pt.
 
 
 [33
 
- <./edgestyling.png>]
-<cytofilter.png, id=266, 339.51843pt x 246.9225pt>
-File: cytofilter.png Graphic file (type png)
-<use cytofilter.png>
-Package pdftex.def Info: cytofilter.png  used on input line 319.
-(pdftex.def)             Requested size: 199.73653pt x 145.261pt.
-
-Overfull \vbox (21.56721pt too high) detected at line 319
- []
-
+ <./nodetable.png>]
+<nodestyling.png, id=266, 610.9224pt x 262.0992pt>
+File: nodestyling.png Graphic file (type png)
+<use nodestyling.png>
+Package pdftex.def Info: nodestyling.png  used on input line 323.
+(pdftex.def)             Requested size: 307.28987pt x 131.83713pt.
 
 
 [34
 
- <./cytofilter.png>]
+ <./nodestyling.png>]
+<edgestyling.png, id=273, 1144.275pt x 258.2448pt>
+File: edgestyling.png Graphic file (type png)
+<use edgestyling.png>
+Package pdftex.def Info: edgestyling.png  used on input line 335.
+(pdftex.def)             Requested size: 322.65529pt x 72.81636pt.
+
+Overfull \hbox (15.36542pt too wide) in paragraph at lines 335--335
+ [] 
+ []
+
+
 
 [35
 
-] (comp.toc)
+ <./edgestyling.png>]
+<cytofilter.png, id=280, 339.51843pt x 246.9225pt>
+File: cytofilter.png Graphic file (type png)
+<use cytofilter.png>
+Package pdftex.def Info: cytofilter.png  used on input line 352.
+(pdftex.def)             Requested size: 199.73653pt x 145.261pt.
+
+Overfull \vbox (21.56721pt too high) detected at line 352
+ []
+
+
 
 [36
 
-]
-<rna.png, id=288, 220.825pt x 407.5225pt>
-File: rna.png Graphic file (type png)
-<use rna.png>
-Package pdftex.def Info: rna.png  used on input line 343.
-(pdftex.def)             Requested size: 92.1879pt x 170.12604pt.
-
-Overfull \vbox (19.7749pt too high) detected at line 343
- []
-
-
+ <./cytofilter.png>]
 
 [37
 
- <./rna.png (PNG copy)>]
-<rnadna.png, id=295, 1376.14125pt x 1101.11375pt>
-File: rnadna.png Graphic file (type png)
-<use rnadna.png>
-Package pdftex.def Info: rnadna.png  used on input line 351.
-(pdftex.def)             Requested size: 307.28987pt x 245.87492pt.
-
-Overfull \vbox (42.12901pt too high) detected at line 351
- []
-
-
+] (comp.toc)
 
 [38
 
- <./rnadna.png>]
-<aptamer.png, id=302, 426.59375pt x 170.6375pt>
-File: aptamer.png Graphic file (type png)
-<use aptamer.png>
-Package pdftex.def Info: aptamer.png  used on input line 365.
-(pdftex.def)             Requested size: 307.28987pt x 122.92398pt.
+]
+<rna.png, id=303, 220.825pt x 407.5225pt>
+File: rna.png Graphic file (type png)
+<use rna.png>
+Package pdftex.def Info: rna.png  used on input line 376.
+(pdftex.def)             Requested size: 92.1879pt x 170.12604pt.
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 365--365
- [] 
+Overfull \vbox (19.7749pt too high) detected at line 376
  []
 
 
 
 [39
 
- <./aptamer.png (PNG copy)>]
+ <./rna.png (PNG copy)>]
+<rnadna.png, id=309, 1376.14125pt x 1101.11375pt>
+File: rnadna.png Graphic file (type png)
+<use rnadna.png>
+Package pdftex.def Info: rnadna.png  used on input line 384.
+(pdftex.def)             Requested size: 307.28987pt x 245.87492pt.
+
+Overfull \vbox (42.12901pt too high) detected at line 384
+ []
+
+
 
 [40
 
-]
-<aptamers.png, id=313, 1196.3094pt x 544.9158pt>
-File: aptamers.png Graphic file (type png)
-<use aptamers.png>
-Package pdftex.def Info: aptamers.png  used on input line 382.
-(pdftex.def)             Requested size: 353.38147pt x 160.96495pt.
+ <./rnadna.png>]
+<aptamer.png, id=316, 426.59375pt x 170.6375pt>
+File: aptamer.png Graphic file (type png)
+<use aptamer.png>
+Package pdftex.def Info: aptamer.png  used on input line 398.
+(pdftex.def)             Requested size: 307.28987pt x 122.92398pt.
 
-Overfull \hbox (24.75204pt too wide) in paragraph at lines 382--382
- | [] 
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 398--398
+ [] 
  []
 
 
 
 [41
 
- <./aptamers.png>]
+ <./aptamer.png (PNG copy)>]
 
 [42
 
 ]
-<bigmapptamer.png, id=325, 1037.37563pt x 648.92438pt>
-File: bigmapptamer.png Graphic file (type png)
-<use bigmapptamer.png>
-Package pdftex.def Info: bigmapptamer.png  used on input line 400.
-(pdftex.def)             Requested size: 307.28987pt x 192.22318pt.
+<aptamers.png, id=327, 1196.3094pt x 544.9158pt>
+File: aptamers.png Graphic file (type png)
+<use aptamers.png>
+Package pdftex.def Info: aptamers.png  used on input line 415.
+(pdftex.def)             Requested size: 353.38147pt x 160.96495pt.
 
-
-[43
-
- <./bigmapptamer.png>]
-<prunedmapptamer.png, id=334, 922.19531pt x 662.475pt>
-File: prunedmapptamer.png Graphic file (type png)
-<use prunedmapptamer.png>
-Package pdftex.def Info: prunedmapptamer.png  used on input line 408.
-(pdftex.def)             Requested size: 307.28987pt x 220.74022pt.
-
-Overfull \vbox (16.99431pt too high) detected at line 408
+Overfull \hbox (24.75204pt too wide) in paragraph at lines 415--415
+ | [] 
  []
 
 
 
+[43
+
+ <./aptamers.png>]
+
 [44
 
- <./prunedmapptamer.png>] (comp.toc)
+]
+<bigmapptamer.png, id=341, 1037.37563pt x 648.92438pt>
+File: bigmapptamer.png Graphic file (type png)
+<use bigmapptamer.png>
+Package pdftex.def Info: bigmapptamer.png  used on input line 433.
+(pdftex.def)             Requested size: 307.28987pt x 192.22318pt.
+
 
 [45
 
-]
+ <./bigmapptamer.png>]
+<prunedmapptamer.png, id=348, 922.19531pt x 662.475pt>
+File: prunedmapptamer.png Graphic file (type png)
+<use prunedmapptamer.png>
+Package pdftex.def Info: prunedmapptamer.png  used on input line 441.
+(pdftex.def)             Requested size: 307.28987pt x 220.74022pt.
+
+Overfull \vbox (16.99431pt too high) detected at line 441
+ []
+
+
 
 [46
 
-]
+ <./prunedmapptamer.png>] (comp.toc)
 
 [47
 
@@ -1266,6 +1279,14 @@ Overfull \vbox (16.99431pt too high) detected at line 408
 [51
 
 ]
+
+[52
+
+]
+
+[53
+
+]
 \tf@nav=\write5
 \openout5 = `comp.nav'.
 
@@ -1282,18 +1303,18 @@ L3 programming layer <2024-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 25814 strings out of 475831
- 520382 string characters out of 5777600
- 1933960 words of memory out of 5000000
- 47804 multiletter control sequences out of 15000+600000
- 572441 words of font info for 87 fonts, out of 8000000 for 9000
+ 25886 strings out of 475831
+ 521995 string characters out of 5777600
+ 1934960 words of memory out of 5000000
+ 47862 multiletter control sequences out of 15000+600000
+ 573889 words of font info for 95 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  128i,13n,123p,1952b,582s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\georg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\georg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on comp.pdf (51 pages, 14896809 bytes).
+ <C:\Users\georg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1000.pk> <C:\Users\georg\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcss1095.pk><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmss9.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/georg/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/rsfs/rsfs10.pfb>
+Output written on comp.pdf (53 pages, 14915014 bytes).
 PDF statistics:
- 489 PDF objects out of 1000 (max. 8388607)
- 348 compressed objects within 4 object streams
- 110 named destinations out of 1000 (max. 500000)
- 244 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 511 PDF objects out of 1000 (max. 8388607)
+ 362 compressed objects within 4 object streams
+ 114 named destinations out of 1000 (max. 500000)
+ 249 words of extra memory for PDF output out of 10000 (max. 10000000)
 

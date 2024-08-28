@@ -1,6 +1,10 @@
 \documentclass{beamer}
 \usepackage{bookmark}
 \usepackage{graphicx}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\DeclareMathOperator*{\argmin}{\text{argmin}}
+\usepackage{mathrsfs}
 \usetheme[sectionpage=progressbar]{metropolis}           % Use metropolis theme
 \title{Topological Data Analysis with Mapper: an Implementation in Cytoscape and an Application to Aptamers}
 \date{August 29, 2024}
@@ -98,6 +102,37 @@
 \end{itemize}
 \end{frame}
 
+\begin{frame}{How to Cluster, Hierarchically}
+  \begin{itemize}
+    \item Two ingredients:
+    \begin{itemize}
+      \item A discrete set $X$ of $n$ equipped with a distance function $d:X\times X\to\mathbb{R}$
+      \item A \textbf{linking criterion}, which is a function $\ell: \mathscr{P}(X)\times\mathscr{P}(X)\to\mathbb{R}$ which measures distance between sets of points
+    \end{itemize}
+    \item Process:
+    \begin{enumerate}
+      \item Begin by considering each point as an individual cluster as part of a collection $\mathcal{C}$.
+      \item Find the two $A,B\in\mathcal{C}$ that minimize $\ell$. Merge these clusters.
+      \item Repeat step 2 until $\mathcal{C}$ consists of up to a single cluster.
+    \end{enumerate}
+    \item We can record the resulting hierarchy of clusters using a \textbf{dendrogram}, which records information about the merging process.
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{Example: Single Linkage Clustering}
+  \begin{itemize}
+    \item Data: 8 points in $\mathbb{R}^2$, with the usual metric
+    \vspace*{.5cm}
+    \begin{figure}
+      \begin{center}
+        \includegraphics[width=.4\textwidth]{cluster0.png}
+      \end{center}
+    \end{figure}
+    \vspace*{.5cm}
+    \item Linking criterion: $$\ell(A, B) = \min_{a\in A, b\in B}\{d(a,b)\}$$
+  \end{itemize}
+\end{frame}
+
 \begin{frame}{Filtering}
   \begin{figure}
     \begin{center}
@@ -166,9 +201,7 @@
   \begin{itemize}
     \item Idea: combine Ball filtering and Original clustering
     \item Bin by balling, then cluster within balls as in Original
-    \item Allows for comparison of two different metrics at the same time on the same data
-    \item Output graph $R$ is a refinement of Ballmapper output $B$; there 
-    is a natural graph homomorphism $\phi: R\to B$ which simply maps vertices into their balls
+    \item Allows for comparison of two different metrics\footnote{Could be not strictly metrics!} at the same time on the same data
   \end{itemize}
   \begin{figure}
     \begin{center}
