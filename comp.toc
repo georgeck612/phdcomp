@@ -1,7 +1,6 @@
 \beamer@sectionintoc {1}{Why TDA?}{3}{0}{1}
 \beamer@sectionintoc {2}{Mapper and Its Flavors}{8}{0}{2}
-\beamer@sectionintoc {3}{Cytoscape to the Rescue}{31}{0}{3}
-\beamer@sectionintoc {4}{Aptamers}{38}{0}{4}
-\beamer@sectionintoc {5}{Mapping out Future Directions}{47}{0}{5}
-\beamer@subsectionintoc {5}{1}{Math}{48}{0}{5}
-\beamer@subsectionintoc {5}{2}{Biology}{52}{0}{5}
+\beamer@sectionintoc {3}{Cytoscape to the Rescue}{42}{0}{3}
+\beamer@sectionintoc {4}{Aptamers}{49}{0}{4}
+\beamer@sectionintoc {5}{Mapping out Future Directions}{59}{0}{5}
+\beamer@subsectionintoc {5}{1}{Biology}{69}{0}{5}
