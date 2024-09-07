@@ -44,14 +44,14 @@
   \only<1>{
   \begin{figure}
     \begin{center}
-      \includegraphics[width=.8\textwidth]{brains.png}
+      \includegraphics[width=.7\textwidth]{brains.png}\cite{mripics}
     \end{center}
   \end{figure}
   }
   \only<2>{
     \begin{figure}
       \begin{center}
-        \includegraphics[width=.8\textwidth]{weatherstation.png}
+        \includegraphics[width=.8\textwidth]{weatherstation.png}\cite{climatepic}
       \end{center}
     \end{figure}
   }
@@ -520,7 +520,7 @@
       \item Clustering coefficients
       \item Modularity classes
     \end{itemize}
-    \item We can filter out nodes/edges by characteristics
+    \item Huge: we can filter out nodes/edges by characteristics
   \end{itemize}
   \begin{figure}
     \begin{center}
@@ -544,19 +544,19 @@
 \section{Aptamers}
 \begin{frame}{Biology CliffNotes CliffNotes}
   \begin{itemize}
-    \item RNA (ribonucleic acid) and DNA (deoxyribonucleic acid) are polymers which carry genetic sequences and have additional structure
+    \item RNA (ribonucleic acid) molecules are polymers which carry genetic information and have additional structure
   \end{itemize}
   \begin{figure}
     \begin{center}
-      \includegraphics[width=.3\textwidth]{rna.png}
+      \includegraphics[width=.3\textwidth]{rna.png}\cite{rnahairpin}
     \end{center}
   \end{figure}
 \end{frame}
 
-\begin{frame}{RNA and DNA}
+\begin{frame}{RNA: Structure}
   \begin{figure}
     \begin{center}
-      \includegraphics[width=1\textwidth]{rnadna.png}
+      \includegraphics[width=.9\textwidth]{rnadna.png}\cite{rnadna}
     \end{center}
   \end{figure}
 \end{frame}
@@ -565,20 +565,19 @@
 \begin{itemize}
   \item Aptamers are synthetic RNA molecules that bind to a specific target
   \item Similar function to antibodies, but much smaller
-  \item \textbf{Genetic code not expressed}
-  \begin{figure}
-    \begin{center}
-      \includegraphics[width=1\textwidth]{aptamer.png}
-    \end{center}  
-  \end{figure}
+  \item \textbf{Genetic information not expressed}
 \end{itemize}
-  
+\begin{figure}
+  \begin{center}
+    \includegraphics[width=1\textwidth]{aptamer.png}\cite{aptamer}
+  \end{center}  
+\end{figure}
 \end{frame}
 
 \begin{frame}{Comparing Aptamers}
   \begin{itemize}
     \item For TDA to work we need a notion of distance among aptamers
-    \item Aptamers have two characteristics: their genetic code and their structure
+    \item Aptamers have two characteristics: their genetic information and their structure
     \item Distance between sequences: Levenshtein distance
     \item Distance between structures: tree distance
   \end{itemize}
@@ -603,7 +602,7 @@
 \begin{frame}{Aptamer Metrics}
   \begin{figure}
     \begin{center}
-      \hspace*{-.75cm}\includegraphics[width=1.15\textwidth]{aptamers.png}
+      \hspace*{-.75cm}\includegraphics[width=1.1\textwidth]{aptamers.png}\cite{billapts}
     \end{center}
   \end{figure}
 \end{frame}
@@ -619,22 +618,49 @@
 \end{frame}
 
 \begin{frame}{Big Mapptamer Graph}
+  \begin{itemize}
+    \item Number of points: 800
+    \item Ball radius $\varepsilon$: 10
+    \item Clustering method: single linkage
+  \end{itemize}
   \begin{figure}
     \begin{center}
-      \includegraphics[width=1\textwidth]{bigmapptamer.png}
+      \includegraphics[width=.7\textwidth]{fullmaptamer.png}
     \end{center}
   \end{figure}
 \end{frame}
 
-\begin{frame}{Pruned Mapptamer Graph}
+\begin{frame}{Vertex-pruned Mapptamer Graph}
+  Vertices with $<100$ datapoints eliminated
   \begin{figure}
     \begin{center}
-      \includegraphics[width=1\textwidth]{prunedmapptamer.png}
+      \includegraphics[width=.8\textwidth]{vertexpruned.png}
     \end{center}
   \end{figure}
 \end{frame}
+
+\begin{frame}{Vertex and Edge-pruned Mapptamer Graph}
+  Vertices with $<250$ datapoints and edges with $<50\%$ overlap strength eliminated
+  \begin{figure}
+    \begin{center}
+      \includegraphics[width=.9\textwidth]{vertexandedgeprune.png}
+    \end{center}
+  \end{figure}
+\end{frame}
+
+
 
 \section{Mapping out Future Directions}
+
+\begin{frame}{More Aptamer Work}
+  \begin{itemize}
+    \item Is this a useful idea?
+    \item Can we find an ``optimal'' set of parameters?
+    \item Compare results versus those obtained by state-of-the-art aptamer algorithms (AptamerRunner)
+    \item More kinds of aptamers (ssDNA)?
+  \end{itemize}
+\end{frame}
+
 \begin{frame}{Other Clustering Algorithms}
   \begin{itemize}
     \item Hierarchical:
@@ -656,7 +682,7 @@
 
 \begin{frame}{Refined Ballmapper and Graph Theory}
   \begin{itemize}
-    \item A function $\phi$ between the vertices of two graphs $G$ and $H$ is called a \textbf{graph homomorphism} if $uv\in E(G)$ implies $\phi(uv)\in E(H)$.
+    \item A function $\phi$ between the vertices of two graphs $G$ and $H$ is called a \textbf{graph homomorphism} if $uv\in E(G)$ implies $\phi(u)\phi(v)\in E(H)$.
     \item $G$ and $H$ are called \textbf{homomorphically equivalent} (hom-equivalent) if there exist graph homomorphisms $f: G\to H$ and $g: H\to G$.
   \end{itemize}
   \begin{figure}
@@ -691,27 +717,6 @@
       \only<3>{\includegraphics[width=1.05\textwidth]{graphcorefull.png}}
     \end{center}
   \end{figure}
-\end{frame}
-
-\begin{frame}{Stability}
-  
-\end{frame}
-
-\begin{frame}{Persistence}
-  
-\end{frame}
-
-\begin{frame}{Return of Reeb}
-  
-\end{frame}
-
-\subsection{Biology}
-\begin{frame}{More Aptamers}
-  
-\end{frame}
-
-\begin{frame}{Neuroscience}
-
 \end{frame}
 
 \begin{frame}

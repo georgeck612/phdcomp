@@ -1,0 +1,314 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{tomato}{article}{}
+      \name{author}{4}{}{%
+        {{hash=547661e768118bbf00a4bc47d550bba3}{%
+           family={Chazal},
+           familyi={C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=6494e5a1078482c27e3ef374931bed09}{%
+           family={Guibas},
+           familyi={G\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9156062949009ec0d83b8be5b7046b4c}{%
+           family={Outdot},
+           familyi={O\bibinitperiod},
+           given={S.\bibnamedelimi Y.},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=d4fe75388eda7b2b9b841158a259f3a2}{%
+           family={Skraba},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c2aae0b942a81bcb9f740894d0a372ef}
+      \strng{fullhash}{a10d449607f70135ed9b981481e4e04b}
+      \strng{bibnamehash}{c2aae0b942a81bcb9f740894d0a372ef}
+      \strng{authorbibnamehash}{c2aae0b942a81bcb9f740894d0a372ef}
+      \strng{authornamehash}{c2aae0b942a81bcb9f740894d0a372ef}
+      \strng{authorfullhash}{a10d449607f70135ed9b981481e4e04b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Persistence-based clustering in Riemannian manifolds.}
+      \field{year}{2013}
+    \endentry
+    \entry{climatepic}{online}{}
+      \name{author}{1}{}{%
+        {{hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Climate Station (21123613446)}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/wiki/File:Climate_Station_%2821123613446%29.jpg
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/wiki/File:Climate_Station_%2821123613446%29.jpg
+      \endverb
+    \endentry
+    \entry{rnadna}{online}{}
+      \name{author}{1}{}{%
+        {{hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Difference DNA RNA-EN BW}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/wiki/File:Difference_DNA_RNA-EN_BW.svg
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/wiki/File:Difference_DNA_RNA-EN_BW.svg
+      \endverb
+    \endentry
+    \entry{aptamer}{online}{}
+      \name{author}{1}{}{%
+        {{hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{extraname}{3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pegaptanib induced fit bindin}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/wiki/File:Pegaptanib_induced_fit_binding.png
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/wiki/File:Pegaptanib_induced_fit_binding.png
+      \endverb
+    \endentry
+    \entry{rnahairpin}{online}{}
+      \name{author}{1}{}{%
+        {{hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{extraname}{4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pre-mRNA-1ysv-tubes}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/wiki/File:Pre-mRNA-1ysv-tubes.png
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/wiki/File:Pre-mRNA-1ysv-tubes.png
+      \endverb
+    \endentry
+    \entry{ballmapper}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=39de50e4e79bfda0601b494144791bb4}{%
+           family={Dłotko},
+           familyi={D\bibinitperiod},
+           given={Paweł},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{39de50e4e79bfda0601b494144791bb4}
+      \strng{fullhash}{39de50e4e79bfda0601b494144791bb4}
+      \strng{bibnamehash}{39de50e4e79bfda0601b494144791bb4}
+      \strng{authorbibnamehash}{39de50e4e79bfda0601b494144791bb4}
+      \strng{authornamehash}{39de50e4e79bfda0601b494144791bb4}
+      \strng{authorfullhash}{39de50e4e79bfda0601b494144791bb4}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{math.AT}
+      \field{eprinttype}{arXiv}
+      \field{title}{Ball mapper: a shape summary for topological data analysis}
+      \field{year}{2019}
+      \verb{eprint}
+      \verb 1901.07410
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1901.07410
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1901.07410
+      \endverb
+    \endentry
+    \entry{mripics}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9d5acc1f36cd7ec210fadd925e6c086b}{%
+           family={N.},
+           familyi={N\bibinitperiod},
+           given={Senthilkumaran},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9d5acc1f36cd7ec210fadd925e6c086b}
+      \strng{fullhash}{9d5acc1f36cd7ec210fadd925e6c086b}
+      \strng{bibnamehash}{9d5acc1f36cd7ec210fadd925e6c086b}
+      \strng{authorbibnamehash}{9d5acc1f36cd7ec210fadd925e6c086b}
+      \strng{authornamehash}{9d5acc1f36cd7ec210fadd925e6c086b}
+      \strng{authorfullhash}{9d5acc1f36cd7ec210fadd925e6c086b}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{title}{Brain Image Segmentation using Granular Rough Sets}
+      \field{volume}{3}
+      \field{year}{2009}
+    \endentry
+    \entry{mapper}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=8e192c311aece21b90815dc7c4fa4d95}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Gurjeet},
+           giveni={G\bibinitperiod}}}%
+        {{hash=a3b0c58997a44de6cf40b7c876d84dd2}{%
+           family={Memoli},
+           familyi={M\bibinitperiod},
+           given={Facundo},
+           giveni={F\bibinitperiod}}}%
+        {{hash=86916713a3861f9e4e6fa5e0ce4c7b44}{%
+           family={Carlsson},
+           familyi={C\bibinitperiod},
+           given={Gunnar},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=5c45d9bb93058b174f07674cc6e29938}{%
+           family={Botsch},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ba70ae93e1d4e4bdbdba98d26bcbd956}{%
+           family={Pajarola},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4813a7a1a94021e09e6c138d189a8ebe}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c41ccc3cf2ea31ff1e05daba8641db60}{%
+           family={Zwicker},
+           familyi={Z\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Eurographics Association}%
+      }
+      \strng{namehash}{87a7dce55fe0452ca54600d64152be95}
+      \strng{fullhash}{87a7dce55fe0452ca54600d64152be95}
+      \strng{bibnamehash}{87a7dce55fe0452ca54600d64152be95}
+      \strng{authorbibnamehash}{87a7dce55fe0452ca54600d64152be95}
+      \strng{authornamehash}{87a7dce55fe0452ca54600d64152be95}
+      \strng{authorfullhash}{87a7dce55fe0452ca54600d64152be95}
+      \strng{editorbibnamehash}{98d0c864e0198cbc39bca318919ef507}
+      \strng{editornamehash}{98d0c864e0198cbc39bca318919ef507}
+      \strng{editorfullhash}{6ede7cada37d8a797560e53a6b0d0620}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Eurographics Symposium on Point-Based Graphics}
+      \field{isbn}{978-3-905673-51-7}
+      \field{issn}{1811-7813}
+      \field{title}{{Topological Methods for the Analysis of High Dimensional Data Sets and 3D Object Recognition}}
+      \field{year}{2007}
+      \verb{doi}
+      \verb /10.2312/SPBG/SPBG07/091-100
+      \endverb
+    \endentry
+    \entry{billapts}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2023f02ecf706844d4ba924eba390e2c}{%
+           family={Thiel},
+           familyi={T\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{2023f02ecf706844d4ba924eba390e2c}
+      \strng{fullhash}{2023f02ecf706844d4ba924eba390e2c}
+      \strng{bibnamehash}{2023f02ecf706844d4ba924eba390e2c}
+      \strng{authorbibnamehash}{2023f02ecf706844d4ba924eba390e2c}
+      \strng{authornamehash}{2023f02ecf706844d4ba924eba390e2c}
+      \strng{authorfullhash}{2023f02ecf706844d4ba924eba390e2c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Comparing Aptamer Distances}
+      \field{year}{2023}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
